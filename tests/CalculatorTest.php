@@ -84,7 +84,7 @@ class CalculatorTest extends TestCase
     public function testTestNumberValidation(): void
     {
 
-        $this->expectException(TypeError::class);
+        $this->expectException('TypeError');
 
         $this->setFistNumber('a');
     }
