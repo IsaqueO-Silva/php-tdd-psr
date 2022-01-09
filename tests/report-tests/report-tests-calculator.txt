@@ -1,0 +1,7 @@
+Calculator
+ [x] Test the sum between two numbers
+ [x] Test the subtraction between two numbers
+ [x] Test the multiplication between two numbers
+ [x] Test the division between two numbers
+ [x] Test number validation
+
