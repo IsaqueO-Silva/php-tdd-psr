@@ -1,0 +1,14 @@
+{
+    "name": "isaque/calculator",
+    "description": "Project used to study the concepts of TDD and PSR(4 and 12)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isaque O. Silva",
+            "email": "isaque.osilva1@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
